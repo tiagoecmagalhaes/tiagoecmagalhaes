@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there!
 
-<!--
-**tiagoecmagalhaes/tiagoecmagalhaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a researcher at the University of Porto.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on PyOpenCL
+- 📫 How to reach me: tecmagalhaes@fc.up.pt
+
+
+
+<br />
+
+    
+## Programming languages in the repositories
+<img height=90 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
